@@ -3,7 +3,7 @@ Module 17: Supervised Machine Learning and Credit Risk
 
 ## **Overview of the Analysis**
 
-The purpose of the Credit Risk Analysis perfomred was to create machine learning algorithms to train and test various models such as; Naive Random Oversampling, SMOTE Oversampling, Undersampling, Combination (Over and Under) Sampling, Balanced Random Forest Classifier, and Easy Ensemble AdaBoost Classifier, to aide in the classification of risky loans. Through training and testing groups of a given data set, the objective is to determine which supervised learning algorithm will yield the best performance.
+The purpose of the Credit Risk Analysis performed was to create machine learning algorithms to train and test various models such as; Naive Random Oversampling, SMOTE Oversampling, Undersampling, Combination (Over and Under) Sampling, Balanced Random Forest Classifier, and Easy Ensemble AdaBoost Classifier, to aide in the classification of risky loans. Through training and testing groups of a given data set, the objective is to determine which supervised learning algorithm will yield the best performance.
 
 ## Results
 
